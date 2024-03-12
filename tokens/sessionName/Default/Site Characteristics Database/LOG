@@ -1,2 +1,3 @@
-2024/03/10-13:52:50.409 674c Creating DB C:\Users\obede\OneDrive\Documents\testes\wppconnect\wppconnect\tokens\sessionName\Default\Site Characteristics Database since it was missing.
-2024/03/10-13:52:50.539 674c Reusing MANIFEST C:\Users\obede\OneDrive\Documents\testes\wppconnect\wppconnect\tokens\sessionName\Default\Site Characteristics Database/MANIFEST-000001
+2024/03/12-16:09:41.466 836c Reusing MANIFEST C:\Users\obede\OneDrive\Documents\testes\wppconnect\wppconnect\tokens\sessionName\Default\Site Characteristics Database/MANIFEST-000001
+2024/03/12-16:09:41.499 836c Recovering log #3
+2024/03/12-16:09:41.522 836c Reusing old log C:\Users\obede\OneDrive\Documents\testes\wppconnect\wppconnect\tokens\sessionName\Default\Site Characteristics Database/000003.log 
